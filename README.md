@@ -88,3 +88,6 @@ $ git pull origin {remote branch}
 ```
 $ git fetch
 ```
+
+### How to Merge Binary Conflicts
+- [How to Merge Binary Conflicts](https://gist.github.com/ekkapob/36f9a1eeca246617ffbd33e5f6714a3f)
