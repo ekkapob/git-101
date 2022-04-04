@@ -1,4 +1,5 @@
 # Workshop 1
+
 ### Prerequisites
 - Git installed
 - Have GitHub account
@@ -91,5 +92,7 @@ Edited by Developer 4's nickname
     2. Approve, Merge change and Delete _{nickname}_ branch
       ![merge](https://user-images.githubusercontent.com/710161/158515997-3f138fb6-1f66-44b8-8a7d-1f4934084b48.png)
 
-      
+---
 
+### How to Merge Binary Conflicts
+- [How to Merge Binary Conflicts](https://gist.github.com/ekkapob/36f9a1eeca246617ffbd33e5f6714a3f)
